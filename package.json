@@ -1,8 +1,8 @@
 {
-	"name": "editor-for-sbom",
-	"displayName": "Editor for SBOM",
-	"publisher": "olsv-oss",
-	"description": "This is language support for spdx tag-value file.",
+	"name": "editor-for-spdx-sbom",
+	"displayName": "Editor for SPDX SBOM",
+	"publisher": "rpavlik",
+	"description": "This is language support for SPDX tag-value file.",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.75.0"
